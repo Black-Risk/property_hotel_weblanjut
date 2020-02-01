@@ -12,7 +12,7 @@ Fitur Member :
 * Mencari properti berdasarkan kategori
 * Gambar Properti
 
-Fitur yang lain :
+Fitur Khusus :
 * Jika tidak ada login, langsung beralih ke index.html
 * terdapat session destroy 
 * Sign-up Member
